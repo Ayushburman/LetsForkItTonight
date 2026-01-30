@@ -42,17 +42,3 @@
 
 ---
 
-## 🌐 Connect With Me  
-
-- 📧 Email: yourname@email.com  
-- 💼 LinkedIn: linkedin.com/in/yourname  
-- 🌍 Portfolio: yoursite.com  
-
----
-
-## ✨ Quote I Live By  
-> "Code. Learn. Improve. Repeat." 🔁  
-
----
-
-⭐ If you like my work, consider giving a star!
